@@ -1,4 +1,3 @@
 # Project Details :
 
-<iframe width="643" height="300" src="https://www.youtube.com/embed/2c0IaGfS6jk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<img href = "https://lh3.googleusercontent.com/proxy/8tX8BoYjElUVYkfWZ2NVHj1_qh48D11LqdS4nuxDXsfGlpL21peMacJiVfop1SxCFd1i2wquMmZ_nizeFA">
